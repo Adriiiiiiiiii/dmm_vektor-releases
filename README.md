@@ -40,6 +40,7 @@ VEKTOR **updates itself**: when a new version is out you get a notice inside the
 - **Undo/redo** and drag-and-drop step reordering
 - **Recorder** with real timings and ready-made templates
 - **Color detectors**: watch a point on screen and automatically press keys, click or run a macro when a color appears or disappears
+- **Eyedropper** with magnifier: freeze the screen and pick the exact pixel and color
 - **Key & button remapping** per profile, **controller** buttons as hotkeys
 - **Autoclicker** 1–50 CPS with human variation
 - Per-game **profiles** that switch automatically, **shareable with a code**
@@ -49,6 +50,7 @@ VEKTOR **updates itself**: when a new version is out you get a notice inside the
 
 ![Macros](img/macros.png)
 ![Detectors](img/detectors.png)
+![Eyedropper](img/eyedropper.png)
 ![Remapping](img/remapping.png)
 ![Crosshair](img/crosshair.png)
 ![Languages](img/languages.png)
