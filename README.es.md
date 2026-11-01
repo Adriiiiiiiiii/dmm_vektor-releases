@@ -39,6 +39,7 @@ VEKTOR **se actualiza solo**: cuando hay una versión nueva, aparece un aviso de
 - **Condiciones por color en pantalla**, **bloques** de repetición y al azar, y llamadas a otras macros
 - **Deshacer/rehacer** y reordenar pasos arrastrando
 - **Grabadora** con tiempos reales y plantillas listas para usar
+- **Detectores de color**: vigilan un punto de la pantalla y pulsan teclas, hacen clic o lanzan una macro cuando un color aparece o desaparece
 - **Remapeo de teclas y botones** por perfil, botones del **mando** como atajos
 - **Autoclicker** de 1 a 50 CPS con variación humana
 - **Perfiles** por juego que cambian solos, **compartibles por código**
@@ -47,6 +48,7 @@ VEKTOR **se actualiza solo**: cuando hay una versión nueva, aparece un aviso de
 - Parada de emergencia (F12), bandeja del sistema, arranque con el sistema
 
 ![Macros](img/macros.png)
+![Detectores](img/detectors.png)
 ![Remapeo](img/remapping.png)
 ![Mira](img/crosshair.png)
 ![Idiomas](img/languages.png)
