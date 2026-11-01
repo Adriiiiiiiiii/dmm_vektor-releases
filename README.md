@@ -1,49 +1,56 @@
 <p align="center"><img src="img/logo.png" width="140" alt="VEKTOR"></p>
 
 <h1 align="center">VEKTOR</h1>
-<p align="center"><b>Motor de macros · Autoclicker · Overlay · Mira personalizada</b><br>Windows 10 / 11 y Linux · 64 bits · por DMM Studios</p>
+<p align="center"><b>Macro engine · Autoclicker · Key remapping · Overlay · Custom crosshair</b><br>Windows 10 / 11 and Linux · 64-bit · 16 languages · by DMM Studios</p>
 
-## ⬇ Descargar
+<p align="center"><a href="README.es.md">Español</a> · <b>English</b></p>
 
-| Sistema | Descarga directa | |
+## ⬇ Download
+
+| System | Direct download | |
 |---|---|---|
-| **Windows 10 / 11** | **[VEKTOR-Setup-x64.exe](https://github.com/Adriiiiiiiiii/dmm_vektor-releases/releases/latest/download/VEKTOR-Setup-x64.exe)** | Instalador (recomendado) |
-| Windows | [VEKTOR-Windows-Portable-x64.zip](https://github.com/Adriiiiiiiiii/dmm_vektor-releases/releases/latest/download/VEKTOR-Windows-Portable-x64.zip) | Portable, sin instalar |
-| **Linux** (cualquier distro) | **[VEKTOR-x86_64.AppImage](https://github.com/Adriiiiiiiiii/dmm_vektor-releases/releases/latest/download/VEKTOR-x86_64.AppImage)** | AppImage (recomendado) |
-| Ubuntu / Debian / Mint | [vektor_amd64.deb](https://github.com/Adriiiiiiiiii/dmm_vektor-releases/releases/latest/download/vektor_amd64.deb) | Paquete .deb |
-| Fedora / openSUSE | [vektor.x86_64.rpm](https://github.com/Adriiiiiiiiii/dmm_vektor-releases/releases/latest/download/vektor.x86_64.rpm) | Paquete .rpm |
-| Linux genérico | [vektor-linux-x64.tar.gz](https://github.com/Adriiiiiiiiii/dmm_vektor-releases/releases/latest/download/vektor-linux-x64.tar.gz) | Comprimido .tar.gz |
+| **Windows 10 / 11** | **[VEKTOR-Setup-x64.exe](https://github.com/Adriiiiiiiiii/dmm_vektor-releases/releases/latest/download/VEKTOR-Setup-x64.exe)** | Installer (recommended) |
+| Windows | [VEKTOR-Windows-Portable-x64.zip](https://github.com/Adriiiiiiiiii/dmm_vektor-releases/releases/latest/download/VEKTOR-Windows-Portable-x64.zip) | Portable, no install |
+| **Linux** (any distro) | **[VEKTOR-x86_64.AppImage](https://github.com/Adriiiiiiiiii/dmm_vektor-releases/releases/latest/download/VEKTOR-x86_64.AppImage)** | AppImage (recommended) |
+| Ubuntu / Debian / Mint | [vektor_amd64.deb](https://github.com/Adriiiiiiiiii/dmm_vektor-releases/releases/latest/download/vektor_amd64.deb) | .deb package |
+| Fedora / openSUSE | [vektor.x86_64.rpm](https://github.com/Adriiiiiiiiii/dmm_vektor-releases/releases/latest/download/vektor.x86_64.rpm) | .rpm package |
+| Generic Linux | [vektor-linux-x64.tar.gz](https://github.com/Adriiiiiiiiii/dmm_vektor-releases/releases/latest/download/vektor-linux-x64.tar.gz) | .tar.gz archive |
 
-Todas las versiones y notas de cambios: **[Releases](https://github.com/Adriiiiiiiiii/dmm_vektor-releases/releases)** · Verificación: `SHA256SUMS.txt`
+All versions and changelogs: **[Releases](https://github.com/Adriiiiiiiiii/dmm_vektor-releases/releases)** · Integrity: `SHA256SUMS.txt`
 
-![Panel](img/01-panel.png)
+![Dashboard](img/dashboard.png)
 
-## Instalación
+## Install
 
-**Windows:** ejecuta `VEKTOR-Setup-x64.exe`. Si aparece *"Windows protegió su PC"*, pulsa **Más información → Ejecutar de todas formas**.
+**Windows:** run `VEKTOR-Setup-x64.exe`. If *"Windows protected your PC"* appears, click **More info → Run anyway**.
 
 **Linux:**
 ```bash
 chmod +x VEKTOR-x86_64.AppImage && ./VEKTOR-x86_64.AppImage
 ```
-También: `sudo apt install ./vektor_amd64.deb` · `sudo dnf install ./vektor.x86_64.rpm`. Requiere sesión X11, o Wayland con juegos bajo XWayland (Steam/Proton, Wine).
+Also: `sudo apt install ./vektor_amd64.deb` · `sudo dnf install ./vektor.x86_64.rpm`. Requires an X11 session, or Wayland with games under XWayland (Steam/Proton, Wine).
 
-VEKTOR **se actualiza solo**: cuando hay una versión nueva, aparece un aviso dentro de la app. Todas las actualizaciones van **firmadas por DMM Studios** y la app rechaza cualquier versión sin esa firma.
+VEKTOR **updates itself**: when a new version is out you get a notice inside the app. Every update is **signed by DMM Studios** and the app rejects any version without that signature.
 
-## Funciones
+## Features
 
-- Macros con teclas, combinaciones, texto, clics, movimientos de ratón, rueda y esperas
-- Modos: una vez · repetir · mantener · alternar · **cada X tiempo**
-- Grabadora de teclado y ratón con tiempos reales y plantillas listas para usar
-- Autoclicker de 1 a 50 CPS con variación humana
-- Perfiles por juego que cambian solos, **compartibles por código** con tus amigos
-- Overlay HUD y **mira personalizada** encima de cualquier juego o programa
-- Parada de emergencia (F12), bandeja del sistema, arranque con el sistema
+- **Macros** with keys, combos, text, clicks, mouse moves (with human-like curves), wheel and waits
+- **Run modes:** once · repeat · while held · toggle · **every X time**
+- **Screen-color conditions**, repeat / random **blocks** and calling other macros
+- **Undo/redo** and drag-and-drop step reordering
+- **Recorder** with real timings and ready-made templates
+- **Key & button remapping** per profile, **controller** buttons as hotkeys
+- **Autoclicker** 1–50 CPS with human variation
+- Per-game **profiles** that switch automatically, **shareable with a code**
+- **Overlay HUD** and **custom crosshair** on top of any game or app
+- **16 languages** and **modular**: turn off whatever you don't use
+- Emergency stop (F12), tray icon, start with the system
 
-![Macros](img/02-macros.png)
-![Mira](img/06-mira.png)
-![Linux](img/linux.png)
+![Macros](img/macros.png)
+![Remapping](img/remapping.png)
+![Crosshair](img/crosshair.png)
+![Languages](img/languages.png)
 
 ---
 
-<sub>Única fuente oficial de descarga: este repositorio. Algunos juegos online prohíben macros en sus normas; úsalo con responsabilidad. © 2026 DMM Studios.</sub>
+<sub>Only official download source: this repository. Some online games forbid macros in their rules; use it responsibly. © 2026 DMM Studios.</sub>
