@@ -40,7 +40,9 @@ VEKTOR **updates itself**: when a new version is out you get a notice inside the
 - **Undo/redo** and drag-and-drop step reordering
 - **Recorder** with real timings and ready-made templates
 - **Color detectors**: watch a point on screen and automatically press keys, click or run a macro when a color appears or disappears
+- **Image detectors**: select an icon or button on screen and VEKTOR finds it (even if it moves) and clicks it or presses keys
 - **Eyedropper** with magnifier: freeze the screen and pick the exact pixel and color
+- **Community gallery** inside the app: ready-to-use profiles, signed by DMM Studios
 - **Key & button remapping** per profile, **controller** buttons as hotkeys
 - **Autoclicker** 1–50 CPS with human variation
 - Per-game **profiles** that switch automatically, **shareable with a code**
@@ -50,7 +52,9 @@ VEKTOR **updates itself**: when a new version is out you get a notice inside the
 
 ![Macros](img/macros.png)
 ![Detectors](img/detectors.png)
+![Image detector](img/image-detector.png)
 ![Eyedropper](img/eyedropper.png)
+![Gallery](img/gallery.png)
 ![Remapping](img/remapping.png)
 ![Crosshair](img/crosshair.png)
 ![Languages](img/languages.png)

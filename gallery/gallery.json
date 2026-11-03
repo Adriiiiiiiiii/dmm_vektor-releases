@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "Updated": "2026-11-03",
+  "Items": [
+    {
+      "Id": "anti-afk",
+      "Name": "Anti-AFK",
+      "Category": "utility",
+      "Game": "Any game",
+      "Author": "DMM Studios",
+      "Description": {
+        "en": "Small random movement + jump every ~60 s so you don't get kicked for inactivity. Start/stop with F7.",
+        "es": "Pequeño movimiento aleatorio + salto cada ~60 s para que no te expulsen por inactividad. Activa/para con F7."
+      },
+      "Macros": 1,
+      "Detectors": 0,
+      "Code": "VKTR1-GwcLABwHdkz4C02bwYlLEIZtVf3ShpmcWInLqwQRKRadEPF5zqUTGRDN_l_0VdtRaSeNL00Gdm-AMroKl7Rp_6oOIxnmGdfKPzFV-401BJO0fzLNfiWdKdaAbpPyA0FUg8A88icpL1ssJnkgNRSkZmdeeZxSJbfbzJgmLGaWlnoys0h8Gi_KdzSuTVHim3USfv_i2A_sB2_GtQT0kOLEnhJ9JNWUUzhOHDcs_42Q1IpAnYnTeoWeUPNIletqbBmo0Lfy44tVy8WqMWc0xSoMH82O-MqsLjjCnCNkTDM50iioWXGUoW4tjj6E6TZPXtxEN56p8lKUzMzNyjhuhULj51QbnC95rIE0Btu8no7BwMWiqiroL2e2-Vn8GV2VjQ1iIxaw4OKtBb9QgaEA1qoU8vvNTIzWdDfM3AWTLI7FYTWCaxnR97uhCyT_wcNqLC1h_NyWBM70Geix5Tnh7QMJmbkjye_2XFCke4OPfFDXZguGG-CnW3ebfXARuhraEAeCE65j6nalw8KHIJybyQuCjtj2QqNCiK5zs17b6OpXafycuvuFECarsjEw5BVxS8VDj-pdm_-sBhSRKZtmrGzeAQ"
+    },
+    {
+      "Id": "mmo-rotation",
+      "Name": "MMO Rotation",
+      "Category": "mmo",
+      "Game": "MMORPG",
+      "Author": "DMM Studios",
+      "Description": {
+        "en": "Skill rotation 1-2-3-4 with human-like timings (F2), auto loot (F3) and a detector that drinks a potion when health gets low.",
+        "es": "Rotación de habilidades 1-2-3-4 con tiempos humanos (F2), auto-loot (F3) y un detector que bebe poción cuando baja la vida."
+      },
+      "Macros": 3,
+      "Detectors": 1,
+      "Code": "VKTR1-GxkPAJyFsfNiJaRr_wsb5QtDMMG_tqGy5OmS_LZXuJMgsItfUGMYQzBSt2nlntVsNkvdA61jWiw6IfL_369Gvw3IIFQTf7733bkTFJU2Vr3bGCmwgAGyZ8B8KyzqMbZmFpSeaK_xbCJkcI-acvwBku4MIZ-awEpvZjcI2U30E0E0ggbcRxcj9dzmy3EAcUOr7OgbH5QMZbPbJQddeLmzON81yT2VmpTFv0GuT5HCL4Qy3evg966ue8RbLmb_sqk7x5xzA8KRAihCjoQlOWE6Dff026qIImKakoCgJiT7OqZx6SHXXCe5YkjGyhVPPrShuzk4yRFIoEoMhP9EQU648dAh4jjP8aVTZPryQy20brZxGiQcR97hRAKaWnv1KiGXq4IeDRLEf9nA_iU0D_jHADQpWSNXPpaSBKQqpxe_DCmGbL3DTfJ8SQI1X53YktWQ8CB8uUlifr9Mz6gcldJrSAk5WahWQ_k8PAu9_rtL4WSd-voqGe8zNw7ylPtGlfE-C2PdxXy9biROQ8LpVZmxZN8kwMI9NGhc9-LFYa-M-C_hXkorDGNnwMZMEgh5UUuLfJmwX-P1F3XgHcso9-ysS3mjNVq4jzU1dUseN8L5uFcZi1i8j3HuAjqnl5x9I10ZmrneURQEOXZ9e5Zs5-Qdjy3DddiXWJljKu9NVOE5tQQ2VXGqEXiRcg9vB8kMIu8w7ERyz6p_hOl5WPfwERMVoToHQ_4-l9TOSt-lVhP8KLkH8W6vsKWVeXLdecQkRCS1h6OXk0ySgHjZBEICGIyQAW3iIWIbgCbgNCPYNMVtJwR4aM4rVXyZXJCLy07rURA-YZzdckZFNVFfJ4VjMGaxK4AxTcmkB0eT2zutD73nCw"
+    },
+    {
+      "Id": "shooter-tools",
+      "Name": "Shooter Tools",
+      "Category": "shooter",
+      "Game": "FPS",
+      "Author": "DMM Studios",
+      "Description": {
+        "en": "Reload + weapon swap on mouse side button, crouch jump, spam interact while holding Alt+F and Caps Lock remapped to Ctrl.",
+        "es": "Recargar + cambiar arma con botón lateral, salto agachado, spam de interactuar con Alt+F y Bloq Mayús remapeado a Ctrl."
+      },
+      "Macros": 3,
+      "Detectors": 0,
+      "Code": "VKTR1-G3AOQJwFdhvdRP-mqfFOCAMEXPA_vMgfB79arYjPT2Q-r17T2vdvVcExTeGzkgOQOixdIWLfry0hpWhMoqle5e89xDzdkSyZZQ-R1G5oJIYYqZ0hWfuY6FbrGz-BJ9XhyGM3vJABuuvcXNFAZOhh1INyueHWHiRqGSG6ib4hCBnIAz5SBnKepxHJQ0gbuifmb3i0tiCjt8sO2SIEzvL9tsgu6NrrQ_sf6d9TVOA7QIFZLVN-S-IHHXJlcJdkW6i3SQUhFykF0uNITpL3aMxRXUfGAahWGSGfCbldgjRwHsByQ-kVSnkAV3H94VNKY-WMBnCGdgI4lwxuwDkQi4omgQWB9EqiETazMzGMfFsEgFser9gBWRdkH-NEjcdoKZ2-DMN8iQmmDYLsuHZTiWcSRVHsahx3_DIlM2gz1NkAXZJEMY-CS5YP-EKigoj1jZec-6UQs5X84XP_SAKHZoZNBK6ccstT5986q_iXUrwtqdJ5mpGLAC2nNmkgcLIzG0YDR1UP7EA6fdXuh0_CImohhhUlMW--So2qVQFlGddiYXbRWrlJg4dYu159-lmtzCKGc51xP1cq3vioxYnzf3n7b9SW_81TufHR89Kz2mzb4H2sz88YBdjKkE2uPF69QlIhzBpujdBGPPHKY9XlBqdTnBXwHWskbGS9Q3e53d-r-qzIIPR4vp_KBU-Q9H7Kv4V5gJ12QsQEj9VaRf5POKUHKsXgHw"
+    },
+    {
+      "Id": "office-texts",
+      "Name": "Office Quick Texts",
+      "Category": "productivity",
+      "Game": "Windows / Linux",
+      "Author": "DMM Studios",
+      "Description": {
+        "en": "Email signature, quick reply, paste as plain text and copy+paste in one key. Edit the texts to your own.",
+        "es": "Firma de email, respuesta rápida, pegar como texto sin formato y copiar+pegar con una tecla. Edita los textos a tu gusto."
+      },
+      "Macros": 4,
+      "Detectors": 0,
+      "Code": "VKTR1-GxELABwHbqxlyoOgvR4EYZdVm9m0J5YBceY7Wbr6ikXH7zkVNCAF8GCwuZ_LWl2DarU9aQpWbIP1FcwXDWufwz0q4YnFvGLDRUjswHT9UIkASMfDrWCwIxNs1o1DBie2ShDlIECDdJnsn5inp_oBkHTolqtoxQ2vBRWBo7EvgQ4LGi2t3jooo8hbVpd2uFGlosCv7ZRwzDhQdM0DP0byTxdntiE3AbsRYYUgB7mS1I1x7BCTTPUwcnIWa8KDUlMHEZCiCQCfoR7nmqallzNuXMFUQMOVzdbRMDkAqvG24LjwGkHRVaYqQDuHXcW1xtpJxFoZMBeNzv8AcCvIdRQH1vsarI-u-EG1SSlVG5C78ZajsawwX5YUlKkchO8aEJHRZm7rynmMRnQl7gTPTRn13l6bl8sPH8puGkpMVHE7d_Wpl51Z7Lvm5o6nHqlpNl0LhV1AjywBqCKg_htZMNBWO55yUHfjLR-nWqIrDMVkRAHHkldpZ4rhRNywvdBRDIWzyOCs7HzJX-YYDlEgWsXdLx83_S2EzQnvXBjDYUCzy3IvicZfqTT9uGqm34kEU-KRGatupJOusK0TFpdi7fPB1eeznJ2jpvKbZG9VW1AtwbGAaxQ83stwSOPm0Pn2XcKIRKAFpqW6ITELBkhjHjIQdxMnOQ_Q7pDPxvu1lp14dgrHaLGX0aWs4MGug0s6Py8q9pohDEkMjNOOPWNkwGBz"
+    },
+    {
+      "Id": "sandbox-afk",
+      "Name": "Sandbox AFK Farm",
+      "Category": "gaming",
+      "Game": "Sandbox / survival",
+      "Author": "DMM Studios",
+      "Description": {
+        "en": "Hold right click (F6), attack every 0.6 s (F8) and auto-walk (F9). Classic AFK farms in block-building games.",
+        "es": "Mantener clic derecho (F6), atacar cada 0,6 s (F8) y andar solo (F9). Granjas AFK típicas de juegos de construir bloques."
+      },
+      "Macros": 3,
+      "Detectors": 0,
+      "Code": "VKTR1-G7IIAIzUYk2Z7gRR-ttXLbO0N8wl5FmJyXcJYlIsOhenXgiKXNNo_jPmouKi0tbFC6hiBesFzDs2Roc4Z3JT2MI11QvO1DpEw7b2vHMA0mZitdyfv3tP5cqNbGONgf9NjEdCAwSBgXSepPMmLpTLwMuhJo3ukWdex1ShsFlNwIYEQ4vbr-UmXedtOKuvwk0YFQm_pCRp92Ln2i6BaBBjXmZipIoJxmskiwBS8CqJleYIxkQ9ML1i4klTDLxpQtD3mBU4esiZG7tZM1CBxxUOT93LqAbNjREIlw4rgrnoChwZgT-HCgNyIkK6A4pWAO4G18c_AnojgmSqGXynCh-n7NxUKM_YC6Ibf7gaqF_0SgPuGEi2ntUV2LhcVlUFz_NJd-Vn7S6tCp85aM0E7YEMZ97NaIaMHoy63CVRcbuyZbgbb1vvKkrhMppDod2a3V7TEqpl9COYeEKsgmUwTjxw5lcbPFDNyI0_PG5nnnXhpXgzYPExHnBxWGPQTmJM3Gv3kpjOJGTMTNBTNROm1n3XEk67pW5XFbb40rhkmPxF23xD2JBo4ju9yDrIg5Z933LN18FWtFoAFqZstsURLp42Mxu38Kt6KRR_8GVNPRyUH8tlsIMXi1c"
+    },
+    {
+      "Id": "clicker-helper",
+      "Name": "Clicker Helper",
+      "Category": "gaming",
+      "Game": "Idle / clicker",
+      "Author": "DMM Studios",
+      "Description": {
+        "en": "Burst of 10 clicks on mouse side button and a detector that clicks the golden bonus when it appears. Use the eyedropper to set its position.",
+        "es": "Ráfaga de 10 clics con botón lateral y un detector que pulsa el bonus dorado cuando aparece. Usa el cuentagotas para ajustar su posición."
+      },
+      "Macros": 1,
+      "Detectors": 1,
+      "Code": "VKTR1-G0sEAIzTFfGipLkHT71uVS3zaG038RI5M9R_Dtdi0fE_rjaLawtyJRZodBktNu_v67hPa9bq1m4ryyCwJmfS_J-INJRMOaY_3Hgbkb4TDcLI6QNKF_M-hQtPha8PNTxuAfcm_o0gliGB_ug7iT8_W0-eDQyH_vkwF96ozCgJcvvtHGYk0WdFd3nIzAd6dbIcPfD1ChVtNstoE4U6HFreYD1bLhRLMZVYYcdF4ItUJHvS-CRFCuMPz7UaGWLMVMYW4fsKVRLo80Qvl_va7ajaouFqTK6m13QTpBrLI9jwnETRtaQm0M5JuGBNkwjuhCd1cDwcoNVOQN0G-e4mmqghnKxvKmcWpcpaOzS_-ue9Iftyqgy6MZTsWd3q84iIeJdWc7PtL4cGJ8TbGxIJHAohhCv8LCWGHDDc6C7N_GGbxzhazOprj7ZkRIRQHaD4OzhlSdUohgmp_fG5cFiaW1V4MKjeaFjFM8V5FAomxQERoyLYh-yxEbUdcUaG3_Ayv3ZlV-tgaWgx6XQPOJdCb_juOgJdyLyv2e680B9NDh0cAeK_NvHcixKoT36WL79mq81rAVcu5VTttwNt54TEdAYyQJmJbAaKiQDYKKYJ3QWywuQITQghywykAj3gR5XS8X1tFf4HZ-xceEZCVAP6rdUm-8t8Ecqj_QA"
+    },
+    {
+      "Id": "streaming-scenes",
+      "Name": "Streaming Scenes",
+      "Category": "utility",
+      "Game": "OBS / streaming",
+      "Author": "DMM Studios",
+      "Description": {
+        "en": "Numpad 1-3 switch scenes, Numpad 0 mutes the mic and Numpad 4 posts “Be right back!” in chat. Map the same shortcuts in your streaming app.",
+        "es": "Numpad 1-3 cambian de escena, Numpad 0 silencia el micro y Numpad 4 escribe “Be right back!” en el chat. Pon los mismos atajos en tu programa de streaming."
+      },
+      "Macros": 5,
+      "Detectors": 0,
+      "Code": "VKTR1-G3IOAIzTFfOilHEPItKtqoWpkT1NQvfissE9dVi6_udyRC2EIw_vnd3_N8Zs05i6AYuiABPpBdYLzNeysixgZ9Co93TlPdac_AMriXhVR5i0g8kSHJ9cHk3u1MYd0f0mdkGCaIESCKQULBO7TnRy6JAzXWLNYxtSYm8y6mAbMggt_rCw06kyT81eYxsX_ahI8UYliYr3msaAtHUKhugikg27UelCEkfEKrKkHOr_K0BpJUSnmdDQm3AlcHmIkxu5GCNICexW1FzpdXSBLsZSAxLhCcgPVP9jUwIzh0xijNmOvX73t0-c6fK2XSYpmbTks4-w2gjAturE88vIL-ecnS5dvrFXxBc_i5sB8cXoCiBjQNyyF70VRESG7vsdHf3wKnki9qMGw5woNWDgrKseupBnBTnmr4n3pyMXhocJtqxvL-EMZWBBHNpv7qnRTXk5SqL3xuJ22us-GFzL3g0Qb2zHqngNsZZB8T8LPg9WCdq3nSY_a5CEYpb_ZZJoTtC97yz5XE1SLCaJ-5MQXDzcF2tenOzVbzsmXzxJEhy68qPMSHL_bzOvvzBI65vVCru3u-k_NCIlfVfEj88fnsYZxgu4RI8plNHc_mxXeBZJORKW5N2OfMIH_TdbVNa7iMUl4Uh8dGXD3VGtJy5xq92fgcaRKTZg4dXSFg"
+    }
+  ]
+}

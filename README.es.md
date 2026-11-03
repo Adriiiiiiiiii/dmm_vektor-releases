@@ -40,7 +40,9 @@ VEKTOR **se actualiza solo**: cuando hay una versión nueva, aparece un aviso de
 - **Deshacer/rehacer** y reordenar pasos arrastrando
 - **Grabadora** con tiempos reales y plantillas listas para usar
 - **Detectores de color**: vigilan un punto de la pantalla y pulsan teclas, hacen clic o lanzan una macro cuando un color aparece o desaparece
+- **Detectores de imagen**: seleccionas un icono o botón en pantalla y VEKTOR lo encuentra (aunque se mueva) y hace clic o pulsa teclas
 - **Cuentagotas** con lupa: congela la pantalla y elige el píxel y el color exactos
+- **Galería de la comunidad** dentro de la app: perfiles listos para usar, firmados por DMM Studios
 - **Remapeo de teclas y botones** por perfil, botones del **mando** como atajos
 - **Autoclicker** de 1 a 50 CPS con variación humana
 - **Perfiles** por juego que cambian solos, **compartibles por código**
@@ -50,7 +52,9 @@ VEKTOR **se actualiza solo**: cuando hay una versión nueva, aparece un aviso de
 
 ![Macros](img/macros.png)
 ![Detectores](img/detectors.png)
+![Detector de imagen](img/image-detector.png)
 ![Cuentagotas](img/eyedropper.png)
+![Galería](img/gallery.png)
 ![Remapeo](img/remapping.png)
 ![Mira](img/crosshair.png)
 ![Idiomas](img/languages.png)
